@@ -1,0 +1,25 @@
+{
+  "name": "background-animation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiwangme/background-animation.git"
+  },
+  "keywords": [],
+  "author": "Willin Wang",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/shiwangme/background-animation/issues"
+  },
+  "homepage": "https://github.com/shiwangme/background-animation#readme",
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "eslint-config-willin": "^1.0.3",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
