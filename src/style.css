@@ -14,3 +14,22 @@ html {
   animation-duration: 1s;
   animation-fill-mode: both;
 }
+
+body {
+  background-image: url(bg.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  animation: scrollUp 1s linear;
+  background-position-y: -20vh;
+  min-height: 120vh;
+}
+
+@keyframes scrollUp {
+  0% {
+    background-position-y: 0;
+  }
+  to {
+    background-position-y: -20vh;
+  }
+}

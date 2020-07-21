@@ -1,3 +1,3 @@
-# gallery-3d-flip
+# background-animation
 
-Live [Demo](https://swm.js.cool/gallery-3d-flip/)
+Live [Demo](https://swm.js.cool/background-animation/)
